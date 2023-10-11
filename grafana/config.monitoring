@@ -1,0 +1,9 @@
+GF_SECURITY_ADMIN_USER=admin
+GF_SECURITY_ADMIN_PASSWORD=foobar
+GF_USERS_ALLOW_SIGN_UP=false
+
+#[smtp]
+#enabled = true
+#host = smtp.example.com:465
+#user = dalikachouri9@gmail.com
+#password = olmccspxtcxsxtxr
